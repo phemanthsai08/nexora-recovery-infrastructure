@@ -1,0 +1,10 @@
+{
+  "total_records": 55,
+  "total_capital_inr": 533260,
+  "recovered_inr": 82485,
+  "recovery_rate_pct": 15.5,
+  "promises_extracted": 32,
+  "promise_keep_rate_pct": 46.9,
+  "clean_halts": 3,
+  "human_review_escalations": 9
+}
