@@ -1,0 +1,36 @@
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & local data (keep structure, ignore runtime if desired)
+# logs/*.json  # uncomment if you want to ignore runtime logs
+
+# Node (if any)
+node_modules/
+frontend/node_modules/
+
+# Temp
+*.tmp
+*.log
